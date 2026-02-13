@@ -12,6 +12,21 @@ export function uniqueSorted(values: string[]): string[] {
   return seen.sort();
 }
 
+/** Count the number of times a value appears in an array. */
+export function timesCount(values: string[]) {
+  const counts = values.reduce((acc: any, val: string) => {
+    acc[val] = (acc[val] || 0) + 1;
+    return acc;
+  }, {});
+
+  const result = Object.entries(counts).map(([value, count]) => ({
+    value,
+    count,
+  }));
+  console.log(result);
+  return result;
+}
+
 /** Build list query from request. */
 export function buildListQuery(
   req: Request,

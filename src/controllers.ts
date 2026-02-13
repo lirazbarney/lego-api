@@ -1,5 +1,4 @@
 import { Request, Response } from "express";
-import { ListQuery } from "./types";
 import {
   getSets,
   getOneSetById,
@@ -18,22 +17,29 @@ const MAX_LIMIT = 100;
  * List sets with pagination and filters (Pokemon API style).
  */
 export function listSets(req: Request, res: Response): void {
+  console.log("baba");
   const query = buildListQuery(req, MAX_LIMIT, DEFAULT_LIMIT);
   const limit = query.limit ?? DEFAULT_LIMIT;
   const offset = query.offset ?? 0;
 
-  const { results, count } = getSets(query);
+  const { results, totalCount, currentCount, totalPages } = getSets(query);
 
+  console.log("totalCount", totalCount);
+  console.log("currentCount", currentCount);
+  console.log("results", results);
   const nextOffset = offset + limit;
   const prevOffset = Math.max(0, offset - limit);
 
-  const next = nextOffset < count ? buildPageUrl(req, nextOffset, limit) : null;
+  const next =
+    nextOffset < totalCount ? buildPageUrl(req, nextOffset, limit) : null;
   const previous = offset > 0 ? buildPageUrl(req, prevOffset, limit) : null;
 
   res.json({
-    count,
+    totalCount,
+    totalPages,
     next,
     previous,
+    currentCount,
     results,
   });
 }

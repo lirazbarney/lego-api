@@ -32,9 +32,16 @@ app.use((_req, res) => {
   res.status(404).json({ detail: "Not found." });
 });
 
-app.use((err: Error, _req: express.Request, res: express.Response, _next: express.NextFunction) => {
-  console.error(err);
-  res.status(500).json({ detail: "Internal server error." });
-});
+app.use(
+  (
+    err: Error,
+    _req: express.Request,
+    res: express.Response,
+    _next: express.NextFunction,
+  ) => {
+    console.error(err);
+    res.status(500).json({ detail: "Internal server error." });
+  },
+);
 
 export default app;

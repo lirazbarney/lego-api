@@ -1,6 +1,6 @@
 import path from "path";
 import { LegoSet, ListQuery } from "./types";
-import { uniqueSorted } from "./utilities";
+import { timesCount, uniqueSorted } from "./utilities";
 
 const DATA_PATH = path.join(__dirname, "..", "data.json");
 
@@ -21,7 +21,9 @@ const MAX_LIMIT = 100;
 /** Return sets matching the query. */
 export function getSets(query: ListQuery): {
   results: LegoSet[];
-  count: number;
+  totalCount: number;
+  currentCount: number;
+  totalPages: number;
 } {
   // Load sets from data file
   let data = [...loadSets()];
@@ -63,15 +65,22 @@ export function getSets(query: ListQuery): {
     );
   }
 
-  const count = data.length;
+  const totalCount = data.length;
   const limit = Math.min(
     Math.max(1, Number(query.limit) || DEFAULT_LIMIT),
     MAX_LIMIT,
   );
   const offset = Math.max(0, Number(query.offset) || 0);
   const results = data.slice(offset, offset + limit);
+  const currentCount = results.length;
+  const totalPages = Math.ceil(currentCount / limit);
 
-  return { results, count };
+  return {
+    results,
+    totalCount,
+    currentCount,
+    totalPages,
+  };
 }
 
 /** Return set by id. */
@@ -84,31 +93,31 @@ export function getOneSetById(id: string): LegoSet | undefined {
 }
 
 /** Return all collections. */
-export function getCollections(): string[] {
+export function getCollections() {
   const data = loadSets();
   const names = data.map((s) => s.collection);
-  return uniqueSorted(names);
+  return timesCount(names);
 }
 
 /** Return all topics. */
-export function getTopics(): string[] {
+export function getTopics() {
   const data = loadSets();
   const names = data.map((s) => s.topic);
-  return uniqueSorted(names);
+  return timesCount(names);
 }
 
 /** Return all topics for a collection. */
-export function getTopicsByCollection(collection: string): string[] {
+export function getTopicsByCollection(collection: string) {
   const data = loadSets().filter(
     (s) => s.collection.toLowerCase() === collection.toLowerCase(),
   );
-  return uniqueSorted(data.map((s) => s.topic));
+  return timesCount(data.map((s) => s.topic));
 }
 
 /** Return all collections for a topic. */
-export function getCollectionsByTopic(topic: string): string[] {
+export function getCollectionsByTopic(topic: string) {
   const data = loadSets().filter(
     (s) => s.topic.toLowerCase() === topic.toLowerCase(),
   );
-  return uniqueSorted(data.map((s) => s.collection));
+  return timesCount(data.map((s) => s.collection));
 }

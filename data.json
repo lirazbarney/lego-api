@@ -4955,6 +4955,429 @@
   },
 
   {
+    "legoSetId": 80119,
+    "legoSetName": "Galloping Horses Canvas",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2025,
+    "isRetired": false,
+    "minimunAge": 10,
+    "numberOfPieces": 1650,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltb697663ca0a6955d/80119_Prod_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt5c74c9ba04eebd86/80119_WEB_SEC02_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltc3c9f18c48fa4712/80119_WEB_SEC01_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltf49c7600569d05c8/80119_WEB_SEC05_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Showcase the artistry of traditional brush painting with this Spring Festival model. Hang the canvas of galloping horses. Pose the 4 brick-built horses' legs and turn the handle to make the horses move, as if galloping out of the painting. Attach the scene of 2 minifigures painting. And with Build Together mode in the LEGO Builder app, your family and friends can join the creative fun.",
+    "minifigures": ["a painter", "a person in year of the horse costume"]
+  },
+  {
+    "legoSetId": 80118,
+    "legoSetName": "Fortune Firecracker",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2025,
+    "isRetired": false,
+    "minimunAge": 9,
+    "numberOfPieces": 1039,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt5279784a41879f35/80118_Prod_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltb6af2d0f5117a46e/80118_WEB_SEC04_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt15be26edc1141ead/80118_WEB_SEC01_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Add extra sparkle to your Spring Festival celebrations with this playful LEGO® Fortune Firecracker. Put bricks inside the traditional-style firecrackers so they 'crackle' when moved. Mount your showstopping creation on the wall for everyone to see. Then press the button to reveal your choice of either a firework display scene or a family gift-giving scene inside!",
+    "minifigures": [
+      "an adult",
+      "god of fortune",
+      "a grandmother",
+      "a grandfather",
+      "a boy",
+      "a girl"
+    ]
+  },
+  {
+    "legoSetId": 80117,
+    "legoSetName": "Good Fortune",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 9,
+    "numberOfPieces": 1021,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltde346ebbe8d7d089/80117_Prod_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt128a9e93d16cb0d3/80117_WEB_SEC02_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt0707a3d617a6aed7/80117_WEB_SEC03_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Create a stunning Spring Festival display to usher in a year of good fortune. Build items symbolizing love, good health, prosperity and joy. There's a beautiful fan, a vase of fortune red fruit, persimmon fruit, golden ingots and a scroll with Chinese text meaning 'spring'. The fan has 2 alternative designs, and the other objects are removable from the base so you can customize your display.",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 80116,
+    "legoSetName": "Trotting Lantern",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 9,
+    "numberOfPieces": 1295,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt66e509f43b9ce67b/80116_Prod_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt87f93d8cec15a692/80116_WEB_PRI_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt4cea91be80776ee5/80116_WEB_SEC04_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt053094bcaad565b9/80116_WEB_SEC05_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt93aa4abac695cc40/80116_WEB_SEC02_NOBG_en-gb.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Light up your Spring Festival celebrations with this playful LEGO® brick-built Trotting Lantern. Capture the beautiful decorative details of a traditional Trotting Lantern. Choose from 2 alternative silhouette windows and activate the LEGO light brick. Fold out the upper tier of the lantern to reveal 3 festive scenes and play out your own Year of the Snake stories with 5 minifigures!",
+    "minifigures": [
+      "a character in a Year of the Snake costume",
+      "a man",
+      "a woman",
+      "a boy",
+      "a girl"
+    ]
+  },
+  {
+    "legoSetId": 80113,
+    "legoSetName": "Family Reunion Celebration",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 1823,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt5bd53e0284bcfc77/80113_alt9.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt182acebcd064fd67/80113.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt746332ffccd37a5c/80113_alt1.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt2ae25cb2a2382fb4/80113_alt2.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blte46ed2b79a23b67b/80113_alt5.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Enjoy a brick-built Spring Festival Family Reunion Celebration at a traditional Chinese-style restaurant. Join parents, grandparents and children in the dining room to eat noodles or chicken, then sing karaoke. Or have a romantic dinner for 2 on the roof before setting off the fireworks. And if you're still hungry later, get some dim sum or street food from the carts outside!",
+    "minifigures": [
+      "a dad",
+      "a mom",
+      "a grandpa",
+      "a grandma",
+      "a boy",
+      "a girl",
+      "a tourist",
+      "a chef",
+      "a character in a Year of the Dragon costume",
+      "a waiter",
+      "a waitress",
+      "a man",
+      "a woman"
+    ]
+  },
+  {
+    "legoSetId": 80112,
+    "legoSetName": "Auspicious Dragon",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 10,
+    "numberOfPieces": 1171,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3bdd33f0621997c3/80112_alt1.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltf468495d3d0fa34f/80112.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blte8df1cfe1aae041c/80112_alt2.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt8ce47b6b775d2fba/80112_alt3.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Mark the Year of the Dragon with this colorful LEGO® brick model of an Auspicious Dragon. Recreate this mythical creature in a dynamic pose. Capture the look of the dragon's scaly skin with special LEGO elements and display it on a brick-built rock with crashing waves all around. This delightful display model is fun to build solo or with family during your Spring Festival celebrations.",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 80111,
+    "legoSetName": "Lunar New Year Parade",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 1653,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt4be1d25ca7eab16d/80111_alt1.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt98309f37eb507c91/80111.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt7e97fb4a10d0bdde/80111_alt2.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltfe35e4c822955c6f/80111_alt3.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt1fa59b79bbf2d985/80111_alt4.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltebb99c373f22b966/80111_alt5.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blta3f80d977ab5dcae/80111_alt7.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltb625b41c844159ac/80111_alt8.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Celebrate the Lunar New Year with a brick-built parade! Build 3 colorful floats and let the festive fun begin. See how the giant rabbit moves when the Year of the Rabbit float is pushed. Check out the drummer banging their drum on the musicians' float. Look out for the moving dragon and people dressed as LEGO® characters like Monkie Kid on the LEGO float. Spectacular!",
+    "minifigures": [
+      "a Year of The Rabbit performer",
+      "LEGO performer dressed as a knight",
+      "LEGO performer dressed as an astronaut",
+      "LEGO performer dressed as a pirate",
+      "LEGO performer dressed as a Monkie Kid",
+      "a family memeber",
+      "a family memeber",
+      "a family memeber",
+      "a family memeber",
+      "a musician",
+      "a musician",
+      "a musician",
+      "a musician",
+      "a musician",
+      "a masked performer",
+      "a masked performer",
+      "a spectator",
+      "a spectator"
+    ]
+  },
+  {
+    "legoSetId": 80110,
+    "legoSetName": "Lunar New Year Display",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 872,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt977f78e81a139d2a/80110_alt1.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt071315885cbc3567/80110.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blta83bb1598877ad0b/80110_alt2.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt9985cd6df51f245e/80110_alt4.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blte966cf5ed168adf8/80110_alt6.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt7e7093ab97be2ea9/80110_alt7.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Capture many iconic Lunar New Year symbols in 2 stunning display models. Build golden ingots in the traditional Yuan Bao design, moutan peony flowers and more. Attach 'Zhao Cai Jin Bao' and 'Hua Kai Fu Gui' greetings to complete decorations that welcome wealth, prosperity and happiness. With separate building instructions for each model, family and friends can easily join in the creative fun!",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 80109,
+    "legoSetName": "Lunar New Year Ice Festival",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2021,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 1519,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc6c7cf0ae6514ea8/80109_Box1_v39.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltfd96e7d0e6e46fd5/80109_Prod.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltad45bd968ac4c95d/80109_WEB_Lineup_NOBG.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Celebrate the Year of the Tiger at the fun-packed Lunar New Year Ice Festival! Rent equipment at the shop and skate, play hockey or ride the penguin sled on the frozen lake. Go fishing or ski down the slope. Watch the ice sculptor at work and check out the giant chun ice sculpture. Take a photo with the family - or a penguin! Then grab a drink and a sweet-potato snack and chill out!",
+    "minifigures": [
+      "a person in a tiger outfit",
+      "sweet-potato vendor",
+      "ice sculptor",
+      "mom",
+      "dad",
+      "a penguin figurine",
+      "a camera man",
+      "a kid",
+      "a kid",
+      "a skier",
+      "a hockey player",
+      "a fisherman",
+      "a kid",
+      "a kid"
+    ]
+  },
+  {
+    "legoSetId": 80108,
+    "legoSetName": "Lunar New Year Traditions",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2021,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 1066,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt7fc817c62b069869/80108_Box1_v39.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt6f60d714b002828b/80108_Prod.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltf8595860e4903f62/80108_WEB_SEC01_NOBG.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt8a9240307ede62d3/80108_WEB_PRI_NOBG.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt4867c67de22f9bfe/80108_WEB_SEC04_NOBG.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltab50975af708efdd/80108_WEB_Lineup_NOBG.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Celebrate Chinese New Year family traditions in 6 colorful LEGO® scenes! From food shopping to creating good-luck decorations and watching the new year gala on TV, it's all here. And there are separate instructions to construct each scene, so the whole family can build together. Arrange and rearrange scenes however you want and bring them to life with 12 minifigures, including the God of Wealth.",
+    "minifigures": [
+      "the God of Wealth",
+      "a stallholder",
+      "a man",
+      "a man",
+      "a woman",
+      "a girl",
+      "a dad",
+      "a mom",
+      "a grandpa",
+      "a grandma",
+      "a boy",
+      "a girl"
+    ]
+  },
+  {
+    "legoSetId": 80107,
+    "legoSetName": "Spring Lantern Festival",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2021,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 1793,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt529cd4964b62fd1c/80107_alt7.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt33e51edcff1cb1f6/80107.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt127f86ae8f36da6a/80107_alt11.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt80cd23ab6b63111b/80107_alt13.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt2c866110fd2a20d2/80107_alt14.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Complete your Lunar New Year celebrations by creating your own LEGO® Spring Lantern Festival! Join the crowd at the traditional garden. Walk through the lantern tunnel to the beautiful pavilion. Drink bubble tea, eat a Tang Yuan rice ball and watch koi fish swimming in the pond. Light up the ox lantern to mark the Year of the Ox, then take a selfie and share the festive fun with your friends!",
+    "minifigures": [
+      "a civilian",
+      "a civilian",
+      "a civilian",
+      "a civilian",
+      "a civilian",
+      "a civilian",
+      "a civilian"
+    ]
+  },
+  {
+    "legoSetId": 80106,
+    "legoSetName": "Story of Nian",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2021,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 1067,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltbb8b63c7fa17895f/80106_alt5.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt210826e842345712/80106.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2§",
+      "https://www.lego.com/cdn/cs/set/assets/blt98a54ffa61474bf6/80106_alt7.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt70c30054620c2118/80106_alt10.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt971c0befecceea8c/80106_alt12.png?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Tell the traditional Story of Nian in LEGO® style! Help the family spring-clean and decorate their house ready for Lunar New Year celebrations. Place warrior guardians and cabbage at the door to scare away evil spirits. Dress up as an ox to celebrate the Year of the Ox and use the firecrackers and fire torch to fend off the Nian creature. Then take a photo and share your cool build with others!",
+    "minifigures": [
+      "a snowman",
+      "a person with an ox costume",
+      "a family memeber",
+      "a family memeber",
+      "a family memeber",
+      "a family memeber",
+      "a family memeber"
+    ]
+  },
+  {
+    "legoSetId": 80105,
+    "legoSetName": "Chinese New Year Temple Fair",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2020,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 1664,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt48c8a69b20160dcf/80105_alt1.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt2771b94114a60797/80105.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltd615d74bf0c5e5a8/80105_alt2.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blte21cf654ee929225/80105_alt3.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt1691efcf86c60588/80105_alt5.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt36182837c846a60f/80105_alt6.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Celebrate Chinese New Year with this supercool LEGO® temple fair! Enter through the beautiful temple and buy some delicious barbecue food and candy. Check out the animal plushies, balloons and more at the toy stall. Make dough figurines and buy vases at the ornament stall. Watch a traditional shadow-theater performance with the family. Then launch a firework element to begin the New Year with a bang!",
+    "minifigures": [
+      "a dad",
+      "a mum",
+      "a girl",
+      "a stallkeeper",
+      "a stallkeeper",
+      "a stallkeeper",
+      "a stallkeeper",
+      "a stallkeeper",
+      "a young dad",
+      "a young mum",
+      "a baby",
+      "a visitor",
+      "a visitor"
+    ]
+  },
+  {
+    "legoSetId": 80104,
+    "legoSetName": "Lion Dance",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2020,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 882,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta643572645e54512/80104_alt1.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltcd54f08f83228b19/80104.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt2206a171482b7a51/80104_alt2.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt830356ddec719e6d/80104_alt3.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/blt53bbf6fb2a2dab84/80104_alt4.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2",
+      "https://www.lego.com/cdn/cs/set/assets/bltc93fa799f5fbfaff/80104_alt6.jpg?format=webply&fit=bounds&quality=60&width=640&height=640&dpr=2"
+    ],
+    "description": "Create your own colorful LEGO® Lion Dance for good luck and to celebrate Chinese New Year! Build the beautifully detailed lions and watch them dance on stage from the temple gate. Dress up as a rat to celebrate the Year of the Rat. Join the musicians to play the drums, cymbals and gong. Launch the rocket firework element and place the 'best wishes' scroll in a lion's mouth at the end of the dance!",
+    "minifigures": [
+      "a man in rat costume",
+      "a dancing lion",
+      "a dancing lion",
+      "a dancing lion",
+      "a dancing lion",
+      "a dancing lion",
+      "a character",
+      "a character",
+      "a character",
+      "a character",
+      "a character",
+      "a character",
+      "a character"
+    ]
+  },
+  {
+    "legoSetId": 80103,
+    "legoSetName": "Dragon Boat Festival",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2019,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 632,
+    "images": [""],
+    "description": "Join in the fun and excitement at the Dragon Boat Festival! Buy a snack at the food stall. Watch the race from the viewing area or judge's stand. Compete against your friends and family in races. Guide your boat with the helmsman and play the drums to encourage the paddlers to paddle faster! Which team will cross the finishing line first and win the trophy?",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 80102,
+    "legoSetName": "Dragon Dance",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2019,
+    "isRetired": true,
+    "minimunAge": 9,
+    "numberOfPieces": 622,
+    "images": [""],
+    "description": "Dance for good fortune in the Year of the Pig! Open the mouth and pose the tail of the colorful dragon. Dress up as a pig and carry the dragon ball in front of the dragon and the dragon dancers. Then turn the handle to make the dragon and dragon dancers dance and the dragon ball spin!",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 80101,
+    "legoSetName": "Chinese New Year's Eve Dinner",
+    "collection": "Chinese Festival",
+    "topic": "China 🇨🇳",
+    "yearReleased": 2019,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 616,
+    "images": [""],
+    "description": "Join mum, dad, grandma, grandpa and the children for a magical Chinese New Year's Eve Dinner! Decorate the dining room with the Year of the Pig picture and the front door with the Fu sign to bring good luck. Enjoy a traditional feast at the dining table with all the family. Hand out the red gift envelopes and read the good wishes on the spring scrolls. Happy new year, everyone!",
+    "minifigures": []
+  },
+
+  {
     "legoSetId": 0,
     "legoSetName": "",
     "collection": "",
