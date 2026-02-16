@@ -23,7 +23,7 @@ export function timesCount(values: string[]) {
     value,
     count,
   }));
-  console.log(result);
+
   return result;
 }
 

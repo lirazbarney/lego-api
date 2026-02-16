@@ -34,34 +34,42 @@ export function getSets(query: ListQuery): {
       (s) => s.collection.toLowerCase() === query.collection!.toLowerCase(),
     );
   }
+
   if (query.topic) {
     data = data.filter(
       (s) => s.topic.toLowerCase() === query.topic!.toLowerCase(),
     );
   }
+
   if (query.yearReleased != null) {
     data = data.filter((s) => s.yearReleased === Number(query.yearReleased));
   }
+
   if (query.isRetired !== undefined) {
     data = data.filter((s) => s.isRetired === query.isRetired);
   }
+
   if (query.minPieces != null) {
     data = data.filter((s) => s.numberOfPieces >= Number(query.minPieces));
   }
+
   if (query.maxPieces != null) {
     data = data.filter((s) => s.numberOfPieces <= Number(query.maxPieces));
   }
+
   if (query.age != null) {
     const maxAge = Number(query.age);
     data = data.filter((s) => s.minimunAge <= maxAge);
   }
+
   if (query.search) {
     const term = query.search.toLowerCase();
     data = data.filter(
       (s) =>
         s.legoSetName.toLowerCase().includes(term) ||
         s.description.toLowerCase().includes(term) ||
-        s.minifigures.some((m) => m.toLowerCase().includes(term)),
+        s.minifigures.some((m) => m.toLowerCase().includes(term)) ||
+        s.legoSetId.toString().includes(term),
     );
   }
 
@@ -70,10 +78,17 @@ export function getSets(query: ListQuery): {
     Math.max(1, Number(query.limit) || DEFAULT_LIMIT),
     MAX_LIMIT,
   );
+
   const offset = Math.max(0, Number(query.offset) || 0);
-  const results = data.slice(offset, offset + limit);
+
+  const results = data
+    .sort((a, b) => b.yearReleased - a.yearReleased)
+    .slice(offset, offset + limit);
+
   const currentCount = results.length;
-  const totalPages = Math.ceil(currentCount / limit);
+  const totalPages = Math.ceil(totalCount / limit);
+
+  console.log(totalPages);
 
   return {
     results,
@@ -84,12 +99,13 @@ export function getSets(query: ListQuery): {
 }
 
 /** Return set by id. */
-export function getOneSetById(id: string): LegoSet | undefined {
-  const numId = Number(id);
-  if (Number.isNaN(numId)) {
-    return undefined;
-  }
-  return loadSets().find((s) => s.legoSetId === numId);
+export function getOneSetById(identifier: string): LegoSet | undefined {
+  const set = loadSets().find(
+    (s) =>
+      s.legoSetId === Number(identifier) ||
+      s.legoSetName.toLowerCase() === identifier.toLowerCase(),
+  );
+  return set;
 }
 
 /** Return all collections. */
