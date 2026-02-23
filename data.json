@@ -6499,14 +6499,2437 @@
     "minifigures": ["a McLaren driver"]
   },
   {
-    "legoSetId": 60,
-    "legoSetName": "",
+    "legoSetId": 60436,
+    "legoSetName": "LEGO® City Advent Calendar 2024",
     "collection": "City",
-    "topic": "",
+    "topic": "Holidays",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 195,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt39661ff23d660b89/60436_Box1_v39.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltb44759dcd0653854/60436_boxprod_v39_sha.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1b2f8ea09eac89ee/60436_WEB_SEC01_NOBG.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Count down to Christmas with the LEGO® City Advent Calendar 2024 - packed with seasonal surprises to make every day a special day! Discover fun characters with festive Christmas sweaters, cool mini builds and awesome accessories behind every door.Fold down the playmat on the box to reveal a winter village scene, the perfect setting for magical stories and adventures. Have fun!",
+    "minifigures": [
+      "Santa Claus",
+      "Ms. Claus",
+      "a snowman",
+      "a snow skieter",
+      "a boy",
+      "a dog",
+      " a father",
+      "a baby",
+      "a walnut cracker",
+      "a woman"
+    ]
+  },
+  {
+    "legoSetId": 60423,
+    "legoSetName": "Downtown Streetcar and Station",
+    "collection": "City",
+    "topic": "Transportation",
+    "yearReleased": 2024,
+    "isRetired": false,
+    "minimunAge": 7,
+    "numberOfPieces": 811,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta3c2f35e46ae78e2/60423.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt96ff4d6d75589ac4/60423_WEB_SEC02_NOBG.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt8012862628628ef4/60423_WEB_SEC03_NOBG.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt03956b0c8fc422c2/60423_WEB_SEC04_NOBG.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc19c847d0917fa7c/60423_WEB_SEC05_NOBG.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt93cd5577fed785cb/60423_WEB_SEC01_NOBG.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Head over to the LEGO® City streetcar station. Check the departure times on the display, buy your ticket from the vending machine and enjoy a refreshing drink at the cozy coffee shop while you wait. Check out the bridge plates that extend from theplatform as the modern streetcar rolls smoothly into the station. It's time to board - have a great trip!",
+    "minifigures": [
+      "a coffee barista",
+      "a handycap passenger",
+      "a passenger",
+      "a kid",
+      "a train conductor",
+      "a blind man",
+      "a service dog"
+    ]
+  },
+  {
+    "legoSetId": 60440,
+    "legoSetName": "Yellow Delivery Truck",
+    "collection": "City",
+    "topic": "Transportation",
+    "yearReleased": 2024,
+    "isRetired": false,
+    "minimunAge": 8,
+    "numberOfPieces": 1061,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt7aab0264eac14333/60440_Prod.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltf8455a2e7ad12bc0/60440_WEB_SEC02_NOBG.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt56c6fd648d3d0ced/60440_WEB_SEC04_NOBG.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt4de8462fa2d1ecdd/60440_WEB_SEC03_NOBG.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7275bf7550146258/60440_WEB_SEC01_NOBG.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Excitement is building in LEGO® City where pallets of playsets are ready for delivery. Hot dogs are selling like hotcakes as the team prepare the big yellow truck for departure. Open the trailer side panels and use the forklift to load the palletsof toys into the cargo bay. This truck is awesome: it even has a sleeper cab for long hauls! Now check your engine, hop aboard and head for the highway!",
+    "minifigures": [
+      "a truck driver",
+      "a vendor",
+      "a shop worker",
+      "a shop worker"
+    ]
+  },
+  {
+    "legoSetId": 60437,
+    "legoSetName": "Jungle Explorer Helicopter at Base Camp",
+    "collection": "City",
+    "topic": "Adventure",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 881,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltfd3f912357e84431/60437.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt04ff93e5d86de9e0/60437_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc86e9080b36e5dee/60437_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1056004f65488556/60437_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltaab965afdd28bce6/60437_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Welcome to base camp! This place has all you need for jungle exploration, including a motorcycle, swamp boat and a 4-seat, twin-rotor cargo helicopter with a winch for delivering supplies to remote areas. Help the exploration team search for a rare orchid and discover a family of gorillas deep in the heart of the untamed wilderness. Dive into a world of jungle wildlife stories with LEGO® City!",
+    "minifigures": [
+      "a gorilla",
+      "a gorilla",
+      "a baby gorilla",
+      "adventurer",
+      "adventurer",
+      "adventurer",
+      "adventurer",
+      "adventurer"
+    ]
+  },
+  {
+    "legoSetId": 60435,
+    "legoSetName": "Tow Truck and Sports Car Repair",
+    "collection": "City",
+    "topic": "Garage",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 4,
+    "numberOfPieces": 101,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt31c57b6eb66bc6a1/60435.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt64e0013d25e99328/60435_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt394effd4d8ddf064/60435_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Buckle up for exciting vehicle rescue missions aboard this awesome tow truck! Join the vehicle recovery driver as she heads for the highway to save the day for a stranded motorist. Hook up the broken-down sports car and raise the boom to hoist thefront wheel from the road. Then help the driver aboard and head for the nearest repair shop before embarking on your next heroic mission!",
+    "minifigures": ["Truck driver", "a cochlear implant"]
+  },
+  {
+    "legoSetId": 60426,
+    "legoSetName": "Jungle Explorer Off-Road Truck",
+    "collection": "City",
+    "topic": "Adventure",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 314,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc71b8ac9196a8d49/60426.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte321d4c2f029971a/60426_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt4f9c5eea476e3b3a/60426_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Grab your map and buckle up for exciting wildlife adventures aboard the LEGO® City Jungle Explorer Off-Road Truck. This tough exploration truck, equipped with rugged tires and a camera boom, is the perfect vehicle for exciting tiger safaris. There's even an exploration drone onboard for a bird's-eye view. Will you spot the elusive tiger? Dive into a world of jungle wildlife stories with LEGO City!",
+    "minifigures": [
+      "an adventurer",
+      "an adventurer",
+      "an adventurer",
+      "a tiger"
+    ]
+  },
+  {
+    "legoSetId": 60425,
+    "legoSetName": "Jungle Explorer Water Plane",
+    "collection": "City",
+    "topic": "Adventure",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 177,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt36787e3e39f16adf/60425.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc28e5dca3d92dcd3/60425_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7f52775d9db99efb/60425_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Load up your map and camera and board the water plane for epic wildlife adventures. Spin the propeller and skim over the water at high speed to lift into the air. Perform a perfect river landing and discover a jungle cave, a cute frog and a familyof crocodiles. Dive into a world of jungle wildlife stories with LEGO® City!",
+    "minifigures": [
+      "an explorer",
+      "an explorer",
+      "a crocodile",
+      "a crocodile",
+      "a baby crocodile",
+      "a frog"
+    ]
+  },
+  {
+    "legoSetId": 60424,
+    "legoSetName": "Jungle Explorer ATV Red Panda Mission",
+    "collection": "City",
+    "topic": "Adventure",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 92,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltacbe94f2f2a42aae/60424.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt406e15c144c6a017/60424_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltb054ecd456fee42b/60424_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Grab your map, walkie-talkie and camera, jump behind the wheel of the ATV and set off on a mission to find the wild red panda. Join the explorer on epic jungle adventures aboard the tough ATV with its cool design and rugged tires for handling jungle terrain. Dive into a world of jungle wildlife stories with LEGO® City!",
+    "minifigures": ["an explorer", "a red panda"]
+  },
+  {
+    "legoSetId": 60422,
+    "legoSetName": "Seaside Harbor with Cargo Ship",
+    "collection": "City",
+    "topic": "Port",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 1226,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt8f50fc90a0fee8f0/60422.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte956370147dd7a35/60422_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt5b2829658b04e65d/60422_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt940af89f90f93c5b/60422_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt280f4589bac36f6f/60422_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt64541147f17decd2/60422_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Welcome to the sunny LEGO® City Seaside Harbor where the crane operator is unloading a new water scooter and paddleboat from a docked container ship. Have fun on the beach, take a swim or relax beneath a parasol. Enjoy a spot of fishing or head over to the wharf, where you can visit the ice-cream store or take the stairs to a cozy seafood restaurant. Have a great day!",
+    "minifigures": [
+      "a mechnic",
+      "a construction worker",
+      "a woman",
+      " agirl",
+      "a boy",
+      "a crab",
+      "a man",
+      "a construction worker",
+      "a fisherman"
+    ]
+  },
+  {
+    "legoSetId": 6021,
+    "legoSetName": "Robot World Roller-Coaster Park",
+    "collection": "City",
+    "topic": "Theme Park",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 986,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltdddda97237b3182f/60421.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltb82dc760507a9d8f/60421_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltb4645513f602e6f7/60421_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt178c868b83a96265/60421_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Ride the LEGO® City roller coaster! Hold tight as the cars ascend before thundering through a maze of twists and bends that weave through the futuristic video-gaming venue. Take a walk in the huge mech suit. Check out the cool gaming consoles. Visit the e-sports arena or try your hand at robot dancing before dropping by the slushy bar for a refreshing drink. This park is awesome!",
+    "minifigures": [
+      "a man",
+      "a girl",
+      "a boy",
+      "a woman",
+      "a robot",
+      "a man",
+      "a woman",
+      "a girl"
+    ]
+  },
+  {
+    "legoSetId": 60420,
+    "legoSetName": "Yellow Construction Excavator",
+    "collection": "City",
+    "topic": "Construction",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 633,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt4f2ab1315187d12e/60420.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltd0a1e729643a863a/60420_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt63e0cc8504069b76/60420_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt3db0dae60c41d840/60420_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Send in the mega construction excavator! This mammoth machine rolls on huge ground-gripping tracks for access to rugged construction sites. Use the barriers to cordon off your work zone, then hop aboard and take control of the super versatile boom. Spin the cab through 360° and use the bucket to dig, lift and transport massive loads. Get ready for hours of epic building fun!",
+    "minifigures": [
+      "a construction worker",
+      "a construction worker",
+      "a construction worker"
+    ]
+  },
+  {
+    "legoSetId": 60409,
+    "legoSetName": "Yellow Mobile Construction Crane",
+    "collection": "City",
+    "topic": "Construction",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 9,
+    "numberOfPieces": 116,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt23fe5c45aeb9c8f4/60409.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt958b43858a478659/60409_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt5a1d4bf1d4e47f07/60409_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Huge loads call for colossal machines, so unleash the epic 16-wheel mobile crane! Drive the vehicle into position, fold out the sturdy support legs and swing out the operator's cab to make room for the superheavy counterweights. Then raise and secure the boom before extending it high into the air. Rotate it through 360° and control the winch to lift and shift massive objects. Let's get to work!",
+    "minifigures": [
+      "a construction worker",
+      "a construction worker",
+      "a construction worker",
+      "a construction manager"
+    ]
+  },
+  {
+    "legoSetId": 60408,
+    "legoSetName": "Car Transporter Truck with Sports Cars",
+    "collection": "City",
+    "topic": "Transportation",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 7,
+    "numberOfPieces": 998,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt2ac716da379fd470/60408.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7be2660abadd65c5/60408_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltb7ffcb032ea53f3b/60408_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1dd11995851056da/60408_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt34a41d0d0b7564a3/60408_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "The LEGO® City car transporter has arrived! This double-decker carrier is just like the real thing. Tilt the driver's cab to access the engine, hitch the trailer and lower its upper deck and lower deck ramps to board the '50s-style tail dragger, '70s-style muscle car and modern electric supercar. When the vehicles are boarded and secure, get behind the wheel and head for the highway!",
+    "minifigures": ["a driver", "a driver", "a driver", "a driver"]
+  },
+  {
+    "legoSetId": 60407,
+    "legoSetName": "Red Double-Decker Sightseeing Bus",
+    "collection": "City",
+    "topic": "Transportation",
+    "yearReleased": 2024,
+    "isRetired": false,
+    "minimunAge": 7,
+    "numberOfPieces": 284,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt787b6506c3044573/60407.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt27aa69bf5bf05d54/60407_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt58cae758ba6e2c0c/60407_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt44a370e89a93aa85/60407_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltd29303121683b406/60407_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt262a238a26e30075/60407_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Hop on for a city tour aboard the double-decker sightseeing bus. Rotate the sign to display your destination. Choose from LEGO® City downtown, the harbor, museum or the park. Pick up waiting passengers along the way. Help secure the baby stroller in the spacious baggage area and seat passengers on the lower deck or the open-air sightseeing deck where they can enjoy a bird's-eye view. Have fun!",
+    "minifigures": [
+      "a woman",
+      "a baby",
+      "a passenger",
+      "a passenger",
+      "a bus driver"
+    ]
+  },
+  {
+    "legoSetId": 60441,
+    "legoSetName": "Space Explorers Pack",
+    "collection": "City",
+    "topic": "Space",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 426,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt300eb6261a6935e2/60441_Box1_v39.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "",
+    "minifigures": ["a space crew mwmwber"]
+  },
+  {
+    "legoSetId": 60439,
+    "legoSetName": "Space Science Lab",
+    "collection": "City",
+    "topic": "Space",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 560,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt10f1f60705363f29/60439.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt2dd5ee3415574988/60439_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt641cabaf1a96b23c/60439_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1c6f391c64b12d84/60439_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltcb52ba33e1bec53b/60439_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join the crew at the space science lab. Located on a planet rich with vegetation, this translucent-domed laboratory has all you need for futuristic exploration adventures, plus all the comforts of home. Head out on harvesting missions aboard the wheelchair-friendly space scooter. Grow alien plants in the botanical tower and conduct experiments to turn them into medicine, food and fuel. Have fun!",
+    "minifigures": [
+      "a space crew member",
+      "a handycap space crew member",
+      "an alien"
+    ]
+  },
+  {
+    "legoSetId": 60438,
+    "legoSetName": "Sailboat",
+    "collection": "City",
+    "topic": "Transportation",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 102,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltda213e349f35ed59/60438_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltbe2871dff84ccc34/60438_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt08a66085c71b3ed9/60438_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Ahoy! Set out for sailing vacations and adventures aboard an elegant sailboat with a tall mast, cool printed sail and a cabin with a cozy bed. Take the boat's wheel and use the camera to record a jumping dolphin as you glide through the sparkling waves to your favorite destination. Have fun!",
+    "minifigures": ["a man", "a woman", "a dolphin"]
+  },
+  {
+    "legoSetId": 60434,
+    "legoSetName": "Space Base and Rocket Launchpad",
+    "collection": "City",
+    "topic": "Space",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 1422,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltac2c0de81b451c79/60434_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltcb89d1853dba5a77/60434_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1ff72e832878682a/60434_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc23c374062b70507/60434_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1257f05b6ef90526/60434_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Welcome to the space base where the crew is preparing for another epic mission. The admiral is in command, and the rocket ship is ready on the launchpad. Scientists have tested the new crystal-botanic batteries and the tower crane is loading them into the ship's cargo hold for delivery to an orbiting space station. Grab your space gear from the carousel, climb aboard and prepare for blastoff!    ",
+    "minifigures": [
+      "an alien",
+      "an alien",
+      "a robot",
+      "a space crew member",
+      "a space crew member",
+      "a space crew member",
+      "a space crew member",
+      "a space crew member",
+      "a space crew member"
+    ]
+  },
+  {
+    "legoSetId": 60433,
+    "legoSetName": "Modular Space Station",
+    "collection": "City",
+    "topic": "Space",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 7,
+    "numberOfPieces": 1097,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt09f47d01d7fc3a4d/60433_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt0b2622f307bf6100/60433_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltdd29bd351dea792d/60433_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1846f6562e247540/60433_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt8e63ef09179ec993/60433_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7215d1f9e0b4ecaf/60433_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt948d0dfb3bb9a14c/60433_alt7.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte92bce385742fe28/60433_alt8.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join the space crew aboard the LEGO® City Modular Space Station. This futuristic space ring is an orbiting anchor for docking spacecraft and room pod modules, including a satellite, space bike, shuttle, science lab, repair workshop, kitchen, sleeping quarters and a biodome. Switch the modules around to create your own space station design or join them to the shuttle to form a cool space train!",
+    "minifigures": [
+      "a space crew member",
+      "a space crew member",
+      "a space crew member",
+      "a space crew member",
+      "a space crew member",
+      "a space crew member"
+    ]
+  },
+  {
+    "legoSetId": 60432,
+    "legoSetName": "Command Rover and Crane Loader",
+    "collection": "City",
+    "topic": "Space",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 7,
+    "numberOfPieces": 758,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt0ba81d90e31e41da/60432_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt877a5de44d9cf434/60432_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7c8f49be3d1ee307/60432_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Embark on futuristic planetary missions aboard the epic command rover. This top-of-the-range space vehicle is equipped with a laboratory pod, crane and 8 huge tires for exploring new worlds. Join the space crew as they go in search of a super-crystal with enough energy to power an entire space base. Discover extraterrestrial plant life and, who knows - maybe even a tew aliens!",
+    "minifigures": [
+      "a space crew member",
+      "a space crew member",
+      "a space crew member",
+      "a space crew member",
+      "a robot",
+      "an alien",
+      "an alien"
+    ]
+  },
+  {
+    "legoSetId": 60431,
+    "legoSetName": "Space Explorer Rover and Alien Life",
+    "collection": "City",
+    "topic": "Space",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 311,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt4cd6f0193e6589b5/60431_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt819d96a3e6508746/60431_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt74d7e80a39fdf835/60431_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Navigate new worlds aboard the futuristic explorer rover. This colossal space-team machine is fueled by power-generating energy crystals and equipped with huge tires and advanced suspension for cruising over rocky terrain. Join the crew as they map the planet surface, discover strange steam-jetting geysers and maybe even meet some friendly aliens. Hold tight!",
+    "minifigures": [
+      "a space crew member",
+      "a space crew member",
+      "a robot",
+      "an alien",
+      "an alien"
+    ]
+  },
+  {
+    "legoSetId": 60430,
+    "legoSetName": "Interstellar Spaceship",
+    "collection": "City",
+    "topic": "Space",
+    "yearReleased": 2024,
+    "isRetired": false,
+    "minimunAge": 6,
+    "numberOfPieces": 240,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt18bab539b3fea5c1/60430_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1d9b246a08d61ce0/60430_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt9fe5507d01012043/60430_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt19ece306412689d5/60430_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Engage the main thrusters, switch to light speed and journey to the far reaches of space aboard the hypersonic interstellar spaceship. Transform the drone bot into a powerful jetpack for daring space walks and planet exploration. Enjoy limitless intergalactic adventures with the LEGO® City space crew!",
+    "minifigures": ["a spce crew member"]
+  },
+  {
+    "legoSetId": 60429,
+    "legoSetName": "Spaceship and Asteroid Discovery",
+    "collection": "City",
+    "topic": "Space",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 4,
+    "numberOfPieces": 126,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta3bc0ae82f17c50c/60429_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7517ab8c11165b46/60429_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltbd7df02f7026598c/60429_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt234eeaea6623feaf/60429_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Travel into deep space for an out-of-this-world mission to locate and collect power-generating energy crystals. Pilot the shuttle through a swirling cloud of space rocks to reach the surface of a hurtling asteroid. Use the crane and tools to lift and open crystal-rich meteorites and carry out tests in the lab before loading up your craft and heading back to base. Wait! Is that an alien!?",
+    "minifigures": ["a space crew member", "a space crew member"]
+  },
+  {
+    "legoSetId": 60428,
+    "legoSetName": "Space Construction Mech",
+    "collection": "City",
+    "topic": "Space",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 140,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltcf01991d62bab3c0/60428_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt82b10db4d06edcb8/60428_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Climb into the cockpit of the rugged space construction mech for an awesome planetary mining expedition. This cool suit is perfect for exploring new worlds, with big flexible joints, a powerful lifting claw and huge feet for planet walking. Have your construction robot drill for samples and use your hammer and claw arms to break rocks and unearth power-generating energy crystals. Ready? Let's go!",
+    "minifigures": ["a pilot"]
+  },
+  {
+    "legoSetId": 60419,
+    "legoSetName": "Police Prison Island",
+    "collection": "City",
+    "topic": "Police",
+    "yearReleased": 2024,
+    "isRetired": false,
+    "minimunAge": 7,
+    "numberOfPieces": 980,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt402b1fe599d2d64e/60419_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte00c035c572df145/60419_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt2b3807cb8f73787b/60419_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt6c3bf1b2cb3c9483/60419_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1ad2c6f855d9dd11/60419_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltf134be14bf6b2093/60419_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Tension is building on the prison island where LEGO® City's most wanted criminals are planning one of the biggest and most daring escapes in history! As new inmates arrive on the police speedboat, the other prisoners are busy with their plans. Keep an eye out from the control tower and a close watch on the police helicopter - this prison isn't as secure as it seems! Is that the sound of digging?",
+    "minifigures": [
+      "a dog",
+      "a shrk",
+      "a policeman",
+      "a policman",
+      "a policewoman",
+      "a crook",
+      "a crook",
+      "a crook",
+      "a crook"
+    ]
+  },
+  {
+    "legoSetId": 60418,
+    "legoSetName": "Police Mobile Crime Lab Truck",
+    "collection": "City",
+    "topic": "Police",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 7,
+    "numberOfPieces": 674,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltae12722395ef2a31/60418_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt9c315d561c392eee/60418_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1df513d465364d9e/60418_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltf850ed6b6121696e/60418_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltf97a62c3869f7d12/60418_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "An escaped prisoner and his accomplice are on the run after a major jailbreak on the prison island. Join the investigations team aboard the mobile crime lab. This truck is loaded with forensic equipment for tracking crooks, including CCTV screens,a microscope and a trusty magnifying glass! Could a trail of clues lead you to the fugitives? Awesome adventures await with the LEGO® City crime squad!",
+    "minifigures": [
+      "a crook",
+      "a crook",
+      "a policeman",
+      "a policeman",
+      "a policewoman"
+    ]
+  },
+  {
+    "legoSetId": 60417,
+    "legoSetName": "Police Speedboat and Crooks' Hideout",
+    "collection": "City",
+    "topic": "Police",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 311,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt62a9ac3ff5e459bd/60417_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt15eba336cfb633e6/60417_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltfcbd508656591d11/60417_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt3c1988100e81088a/60417_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7eb5f18b127b43c0/60417_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join the officer aboard the police speedboat and head for the LEGO® City harbor where 2 of the city's most wanted crooks have built a hideout amid the maze of old shipping containers. But beware... this crooks' den is filled with hidden surprises, including their faithful bulldog, a bucket-of-fish trap and a quick-escape hatch - as well as their cleverly concealed stash of loot!",
+    "minifigures": ["a police officer", "a crook", "a crook", "a dog"]
+  },
+  {
+    "legoSetId": 60415,
+    "legoSetName": "Police Car and Muscle Car Chase",
+    "collection": "City",
+    "topic": "Police",
+    "yearReleased": 2024,
+    "isRetired": false,
+    "minimunAge": 6,
+    "numberOfPieces": 213,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt1f2c4bdbf4b62da6/60415_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt4742db7a98bc799e/60415_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "There's been a jailbreak! Slide into the cockpit of the cool police interceptor and hit the road in pursuit of one of LEGO® City's most wanted crooks. This machine is equipped with a large rear spoiler, cool rims and slick low-profile tires for extra speed and grip. Screech around bends and perform cool drifts to outrun the crook in her high-speed muscle car! Awesome action awaits in LEGO City!",
+    "minifigures": ["a police officer", "a crook"]
+  },
+  {
+    "legoSetId": 60414,
+    "legoSetName": "Fire Station with Fire Truck",
+    "collection": "City",
+    "topic": "Fire",
     "yearReleased": 2024,
     "isRetired": false,
     "minimunAge": 0,
     "numberOfPieces": 0,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt7e2d25e6978bb21b/60414_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt757c01d6cfc4d0a4/60414_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt03097723509acdbc/60414_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltb3867809e097660a/60414_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt904054bd6b46d11e/60414_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join the crew at the coolest fire station in LEGO® City. Plan rescue missions at the modern top-floor control center. Take the firepole to the equipment area and engine rooms 1 and 2. Fit the ladder or 360° extinguisher to the rear of the fire truck. Then launch the RC drone from the helipad, collect your faithful fire dog and head out for another action-packed firefighting adventure!",
+    "minifigures": [
+      "a dog",
+      "a fire crew member",
+      "a fire crew member",
+      "a fire crew member",
+      "a fire crew member",
+      "a fire crew member"
+    ]
+  },
+  {
+    "legoSetId": 60413,
+    "legoSetName": "Fire Rescue Plane",
+    "collection": "City",
+    "topic": "Fire",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 478,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt185f6f57a846a9a4/60413_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltd271785127eafd65/60413_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "A remote forest fire is out of control! Time to bring in the mighty LEGO® City Rescue Plane. Load up the plane's drop tanks and head to the sky to tackle the blaze. Swoop low over the flames to perform huge water drops. Then unleash the powerful extinguishers and deploy the futuristic jetpack firefighter to knock out the flames and save the day. Good luck!",
+    "minifigures": [
+      "a futuristic jetpack firefighter",
+      "a firefighter",
+      "a firefighter"
+    ]
+  },
+  {
+    "legoSetId": 60412,
+    "legoSetName": "4x4 Fire Truck with Rescue Boat",
+    "collection": "City",
+    "topic": "Fire",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 301,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt94d09dc3316383db/60412_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt61eb1c560224c71b/60412_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt11b4f4b650342178/60412_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blta1b204c64f72a13f/60412_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "A wildfire and a fast-rising river have left a camper stranded. Send in the 4x4 fire truck and rescue boat! This 4x4's huge tires and tough suspension make it perfect for rough terrain and off-road missions. Load up the rescue dinghy, hook up the trailer and head for the scene. Use the truck's powerful extinguisher to calm the flames then board the dinghy and cross the river to save the day!",
+    "minifigures": ["a camper", "a male firefighter", "a female firefighter"]
+  },
+  {
+    "legoSetId": 60411,
+    "legoSetName": "Fire Rescue Helicopter",
+    "collection": "City",
+    "topic": "Fire",
+    "yearReleased": 2024,
+    "isRetired": false,
+    "minimunAge": 5,
+    "numberOfPieces": 85,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltd5d0924daab53e4a/60411_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt499f1f7a15a76a0a/60411_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Buckle up for thrilling firefighting missions with the LEGO® City Fire Rescue Helicopter! Grab your fire helmet and sky-scout binoculars from the storage compartment, hop into the cockpit and spin the rotors to take to the air. Reach rescue scenesin record time and activate the powerful water cannons to knock out flames in a splash! Fun firefighting missions await in LEGO City.",
+    "minifigures": ["a firefighter pilot"]
+  },
+  {
+    "legoSetId": 60410,
+    "legoSetName": "Fire Rescue Motorcycle",
+    "collection": "City",
+    "topic": "Fire",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 4,
+    "numberOfPieces": 57,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltb4a0ce6383729084/60410_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt303df6fd7d9444dc/60410_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt4fe20c30590625e7/60410_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Yikes! A citizen's cozy barbecue has turned into a roaring fire! Deploy the fire rescue motorcycle and race to the scene. This machine is ultrafast and ultracool with super-wide tires, an onboard water tank and a hose. Help the firefighter put outthe flames to save the sausage... and the day! Fun adventures await in LEGO® City.",
+    "minifigures": ["a firefighter", "a barbecue-chef"]
+  },
+  {
+    "legoSetId": 60406,
+    "legoSetName": "Race Car and Car Carrier Truck",
+    "collection": "City",
+    "topic": "Race",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 328,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc649db25b20ebb9e/60406_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt89e7e74874981c6d/60406_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt04a85bc97f503b32/60406_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt54af64d197c09237/60406_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "It's race day, and the ultrafast Race Car and Car Carrier Truck are ready to roll. Check out the race car's sleek 'slammed-wide' design with lowered suspension and flared fenders for ultimate handling and traction. Extend the ramp on the powerful car carrier, drive on board and head to the nearest racetrack for epic truck vs. car race action. It's gonna be a great day!",
+    "minifigures": ["a truck driver", "a racer driver"]
+  },
+  {
+    "legoSetId": 60405,
+    "legoSetName": "Emergency Rescue Helicopter",
+    "collection": "City",
+    "topic": "Emergency",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 226,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3361f5fa331020fa/60405.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt04619a8b74c90bb0/60405_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltdc4dd0e8a8f2a5a2/60405_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Yikes! A lone hiker has gotten into trouble up in the mountains. This is a job for the emergency rescue helicopter. Take to the sky for a bird's-eye view. Hey, there's a rescue flare! Use the winch to lower the rescuer and hoist up the injured hiker. Once he's safely onboard, fly this awesome craft to the nearest hospital and return to base for the next mission. Great teamwork!",
+    "minifigures": ["a medic", "a medic pilot", "an injured hiker"]
+  },
+  {
+    "legoSetId": 60404,
+    "legoSetName": "Burger Truck",
+    "collection": "City",
+    "topic": "Food truck",
+    "yearReleased": 2024,
+    "isRetired": false,
+    "minimunAge": 5,
+    "numberOfPieces": 194,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta619ec8f2276fa45/60404_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltd55200e5fffd1d5b/60404_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt39ce596ed553ff27/60404_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Load up the burger truck and head for the hipster district of LEGO® City. Fold up the service hatch to display your flame-grilled burger sign, hop into the prep area and serve the city's hottest fast food to the coolest customers in town. When you're done, jump behind the wheel and drive this awesome mobile takeout to the next location!",
+    "minifigures": ["a burger chef", "a customer"]
+  },
+  {
+    "legoSetId": 60403,
+    "legoSetName": "Emergency Ambulance and Snowboarder",
+    "collection": "City",
+    "topic": "Emergency",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 4,
+    "numberOfPieces": 79,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt9ca0055e7e1afab8/60403_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt90c2e9d872a148da/60403_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltba2bdfd95a3df1c4/60403_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt457beae58c5f0867/60403_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Uh-oh! Snow has covered the LEGO® City skatepark and a fallen snowboarder needs your help. Load up the rescue stretcher and mobilize the emergency ambulance. Snow is no problem for this vehicle: its high-grip tires are perfect for slippery city streets! And there's enough room on board for the patient, his camera, his selfie stick and his snowboard. Your City, No Limits! Let's go!",
+    "minifigures": ["a medic driver", "an injured skater"]
+  },
+  {
+    "legoSetId": 60402,
+    "legoSetName": "Blue Monster Truck",
+    "collection": "City",
+    "topic": "Monster truck",
+    "yearReleased": 2024,
+    "isRetired": false,
+    "minimunAge": 5,
+    "numberOfPieces": 148,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt7e2ffd7d19321ce6/60402_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt35fb3e4a48e3f97e/60402_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Experience the thrill of driving with the LEGO® City Blue Monster Truck! This powerful vehicle is built for rough terrain and high-speed action, with huge rubber tires for high-grip cornering and flying jumps. Climb behind the wheel and head to the nearest stadium for epic driving displays that will leave the crowds cheering for more!",
+    "minifigures": ["a monster truck driver"]
+  },
+  {
+    "legoSetId": 60401,
+    "legoSetName": "Construction Steamroller",
+    "collection": "City",
+    "topic": "Construction",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 78,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltf8caf43d48d49af0/60401_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt2c7d00cecab65773/60401_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Make new roads for the great vehicles of LEGO® City with the coolest steamroller in town. This mighty road machine has large chunky tires for ultimate grip and a big shiny drum for powerful road rolling. So put on your hard hat, hop aboard and roll like a pro. Let's go, construction hero!",
+    "minifigures": ["a construction worker"]
+  },
+  {
+    "legoSetId": 60400,
+    "legoSetName": "Go-Karts and Race Drivers",
+    "collection": "City",
+    "topic": "Race",
+    "yearReleased": 2024,
+    "isRetired": false,
+    "minimunAge": 5,
+    "numberOfPieces": 99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt22df04bb6ead12e8/60400_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt3b6224898ffc1808/60400_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Rev your engines, it's time for some epic LEGO® City Go-Karts racing! Put on your helmet and choose your ride - will it be the flaming orange kart or the cool turquoise one? Climb aboard, buckle up and get ready for some foot-to-the-floor, tire-screeching action! Who will emerge victorious to claim the coveted winner's trophy? Get ready to race!",
+    "minifigures": ["a race driver", "a race driver"]
+  },
+  {
+    "legoSetId": 60399,
+    "legoSetName": "Green Race Car",
+    "collection": "City",
+    "topic": "Race",
+    "yearReleased": 2024,
+    "isRetired": true,
+    "minimunAge": 4,
+    "numberOfPieces": 56,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt42e887277e9ae38b/60399_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltf868b5ef34be99f1/60399_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Gear up for high-speed fun with the LEGO® City Green Race Car. Get behind the wheel of this supercool racer and prepare for pedal-to-the-metal action! Make a tire-screeching start, zip around bends and whiz past the photographer to cross the finish line in record time! Then take a lap of honor with the winner's trophy before heading to the next racetrack.",
+    "minifigures": ["a race driver", "a photographer"]
+  },
+  {
+    "legoSetId": 60381,
+    "legoSetName": "LEGO® City Advent Calendar 2023",
+    "collection": "City",
+    "topic": "Holidays",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 258,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt70809e617829595a/60381.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltd82e0345e9499ff1/60381_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "The LEGO® City Advent Calendar 2023 has arrived, packed with seasonal fun and surprises to make every day a special day! Open the doors to discover festive characters, mini builds and accessories. Fold out the playmat to reveal a cozy winter wonderland, the perfect setting for magical stories and adventures. The buildup to Christmas has never been so much fun!",
+    "minifigures": [
+      "Santa Claus",
+      "Ms. Claus",
+      "a carol singer",
+      "an ice hokey player",
+      "a snowman",
+      "a boy",
+      "a girl",
+      "an ice sculptor"
+    ]
+  },
+  {
+    "legoSetId": 60367,
+    "legoSetName": "Passenger Airplane",
+    "collection": "City",
+    "topic": "Airplane",
+    "yearReleased": 2023,
+    "isRetired": false,
+    "minimunAge": 7,
+    "numberOfPieces": 913,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltc107c40c81b4c8b1/60367_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blta636ffccc87fdf4b/60367.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltbb6055c6679c3028/60367_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt8e961de4d016a5d1/60367_Func_02.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt446a90859c10a730/60367_alt8.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "The LEGO® City Passenger Airplane is due for departure. The apron bus is on its way and it's time to position the airstair to board the passengers. A catering truck is loading up food and beverages, the baggage handlers have arrived and the pushback tug is ready to wheel out the aircraft. On board the aisle is clear, and the seats and toilet are clean and ready. Prepare for takeoff!",
+    "minifigures": [
+      "a pilot",
+      "a passenger",
+      "a passenger",
+      "a passenger",
+      "a passenger",
+      "an airport worker",
+      "an airport worker",
+      "an airport worker",
+      "an airport worker"
+    ]
+  },
+  {
+    "legoSetId": 60397,
+    "legoSetName": "Monster Truck Race",
+    "collection": "City",
+    "topic": "Monster truck",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 301,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt14fc29dc0118b245/60397_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte1a459660099adc4/60397.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltad5d912077e9a1c9/60397_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt8bb52b379b36f4e4/60397_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1fb10ce3b415e2ef/60397_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Dive into the world of LEGO® 2KDRIVE with the LEGO City Monster Truck Race set! Stage fun-packed face-offs between the taco race driver and his pirate rival. Use the guacamole launcher or the treasure chest full of fish to slow down your competitor, just like in the video game! This set includes 2 awesome monster trucks with lots of fun features for hilarious foot-to-the-floor race action!",
+    "minifigures": ["a taco truck driver", "a pirate truck driver"]
+  },
+  {
+    "legoSetId": 60396,
+    "legoSetName": "Modified Race Cars",
+    "collection": "City",
+    "topic": "Race",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 359,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt07d866582049a177/60396_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1f26869e22c975c2/60396.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltd9203e76a36b1831/60396_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Get ready for hands-on, pedal-to-the-metal LEGO® 2KDRIVE action with the LEGO City Modified Race Cars set! Play out epic face-offs where you upgrade your vehicle as you race, just like the video game! Power up your ride with rocket boosters and propellers or slow down your rival with the element launchers. This set includes 2 race cars and 2 awesome race drivers.",
+    "minifigures": ["a driver", "a driver"]
+  },
+  {
+    "legoSetId": 60395,
+    "legoSetName": "Combo Race Pack",
+    "collection": "City",
+    "topic": "Race",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 362,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltdbfa08111ffc5c09/60395_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt9262c0293cceef09/60395.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7f1899e6ec695729/60395_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt8790e7de78866652/60395_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltae7f42224a36280d/60395_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Prepare for hands-on LEGO® 2KDRIVE action! Put 3 awesome vehicles to the test with the LEGO City Combo Race Pack. Play out foot-to-the-floor on-road, off-road and on-water races. Switch vehicles as you race, just like in the video game, and customize them to your liking with quick-change, mix-and-match modules. This set includes a red sports car, yellow SUV, blue speedboat and 3 race drivers.",
+    "minifigures": [
+      "a female race driver",
+      "a male race driver",
+      "a female race driver"
+    ]
+  },
+  {
+    "legoSetId": 60398,
+    "legoSetName": "Family House and Electric Car",
+    "collection": "City",
+    "topic": "Family",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 462,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt4b8e03aaf0d65678/60398_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt61b430f9fba17132/60398.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1b8b2535d94ee5e4/60398_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltbe2a922d2307c40e/60398_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt31537468c3a29a5f/60398_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt75aa9e1f5aea2bca/60398_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blta5d3da6710fe97d0/60398_alt7.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt3dec9c9ef8e0d188/60398_alt8.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join the family for fun adventures at their eco-friendly home. This iconic house has lots of modern features, such as solar panels and a charge point for the family EV. Inside you'll discover well-equipped rooms, including a kitchen with a cool refrigerator, 2 bedrooms and a bathroom with a toilet and shower. There's even a conservatory with a dining area and a box for growing veggies. Have fun!",
+    "minifigures": ["a mother", "a father", "a son", "a dog"]
+  },
+  {
+    "legoSetId": 60391,
+    "legoSetName": "Construction Trucks and Wrecking Ball Crane",
+    "collection": "City",
+    "topic": "Construction",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 4,
+    "numberOfPieces": 235,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt803a527ad447324d/60391_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blteb85537a34017797/60391.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join the LEGO® City construction workers at the demolition site. Use the barrier to cordon off the area, wheelbarrow the cute spider to safety and get to work. Lower the transporter's ramps to deploy the wrecking ball crane. Swing the ball to demolish the old house. Then fit the bucket to scoop the rubble into the dump truck. When you're done, load up your equipment and head to the next job.",
+    "minifigures": [
+      "a construction worker",
+      "a construction worker",
+      "a construction worker",
+      "a construction manager"
+    ]
+  },
+  {
+    "legoSetId": 60380,
+    "legoSetName": "Downtown",
+    "collection": "City",
+    "topic": "City",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 8,
+    "numberOfPieces": 2010,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt1863058cf2e35894/60380_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt8bd963c2fd61d3eb/60380.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt8b3baa9ebdc3ed70/60380_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt67413242e82ee036/60380_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt583e94f80465a2c9/60380_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt9a26caede3c7d6f8/60380_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt094abca6a3f25f28/60380_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltd41a39c3e5f27e56/60380_alt7.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte2fe0d3a714814c9/60380_alt8.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt416bcbf769998bc3/60380_alt12.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Welcome to Downtown LEGO® City. There's a park, barbershop, vet clinic, blogging studio and a rooftop discotheque. A covered bridge leads to a second 3-level building with a comic store, tech store, janitor's room and a modern hotel. Solar panels and wind turbines supply clean energy, while a cozy street-food area supplies the citizens with pizzas, fresh drinks and noodles. This place is awesome!",
+    "minifigures": [
+      "a veterinarian",
+      "a parrot",
+      "a salesperson",
+      "a man",
+      "a girl",
+      "an art vendor",
+      "a clown",
+      "a violin player",
+      "a dog",
+      "a boy",
+      "a waitress",
+      "a passenger",
+      "a pizza chef",
+      "a customer",
+      "a food vendor",
+      "a customer"
+    ]
+  },
+  {
+    "legoSetId": 60379,
+    "legoSetName": "Deep-Sea Explorer Submarine",
+    "collection": "City",
+    "topic": "Submarine",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 7,
+    "numberOfPieces": 842,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt726fe213eff50c7f/60379_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1ec3ffd4b0e10f96/60379.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltf375691712d34872/60379_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blta2c4bd758e343105/60379_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte619737a405523d4/60379_alt7.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt24d8b714ecd78c0b/60379_alt8.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Dive to the depths of the ocean with the Deep-Sea Explorer Submarine. Join the crew on board where you'll find a cool bubble cockpit and a well-equipped laboratory. Get up close to giant jellyfish and discover a shark-infested shipwreck with sunken treasure. Launch the underwater drone for closer inspection or climb into the mech-style diving suit for a stroll of discovery along the seabed!",
+    "minifigures": [
+      "a fish",
+      "a fish",
+      "a fish",
+      "a fish",
+      "a jellyfish",
+      "a jellyfish",
+      "a shark",
+      "a shark",
+      "a shark",
+      "a skeleton",
+      "an explorer",
+      "an explorer",
+      "an explorer",
+      "an explorer",
+      "an explorer",
+      "an explorer"
+    ]
+  },
+  {
+    "legoSetId": 60378,
+    "legoSetName": "Arctic Explorer Truck and Mobile Lab",
+    "collection": "City",
+    "topic": "Arctic",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt2594ae16385f121a/60378_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte995cc2925a67828/60378.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt84a8b2ac6c235f19/60378_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7d35297c58c82053/60378_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt051de66b9f89461a/60378_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt833098a1f040cc83/60378_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "BOOM! A meteorite has landed in the Arctic landscape. Hook up the mobile lab and watch out for polar bears as you plow your way to the scene aboard the powerful tracked exploration vehicle. Use the truck's crane to board the meteorite and help the scientists examine its mysterious crystal in the laboratory. Get ready for supercool Arctic adventures with LEGO® City sets!",
+    "minifigures": [
+      "a polar bear",
+      "a polar bear cub",
+      "a polar bear cub",
+      "a scientist",
+      "a scientist",
+      "a scientist",
+      "a scientist"
+    ]
+  },
+  {
+    "legoSetId": 60377,
+    "legoSetName": "Explorer Diving Boat",
+    "collection": "City",
+    "topic": "Ocean",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 182,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt69aeb186a71d0c2a/60377_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt3d9c71a84bf3e26e/60377.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt3d9c71a84bf3e26e/60377.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltbb8741fe7f3ba5b3/60377_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt6e7e5908f0117ff9/60377_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Head for the high seas aboard the ultramodern Explorer Diving Boat. Use the crane to deploy the autonomous mini-submarine, put on your diving gear and venture to the ocean floor. Swim with a hammerhead shark and manta ray, and discover a beautiful coral reef, a sunken treasure chest and a cute sea turtle. Exciting ocean adventures await!",
+    "minifigures": [
+      "a diver",
+      "a diver",
+      "a ship operator",
+      "a fish",
+      "a fish",
+      "a fish",
+      "a turtle",
+      "a baby turtle",
+      "a manta ray",
+      "a crub"
+    ]
+  },
+  {
+    "legoSetId": 60376,
+    "legoSetName": "Arctic Explorer Snowmobile",
+    "collection": "City",
+    "topic": "Arctic",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 70,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt31d88b42c2ff3a0e/60376_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt440853dbfa44ec8e/60376.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Reach remote destinations with the Arctic Explorer Snowmobile. This awesome vehicle has tracks and skis for traveling over snowy landscapes. Grab your backpack, load up the camera and head out on wildlife filming expeditions where you'll discover a beautiful seal with its cute cub. The Arctic really is cool!",
+    "minifigures": ["an explorer", "a seal", "a seal cub"]
+  },
+  {
+    "legoSetId": 60368,
+    "legoSetName": "Arctic Explorer Ship",
+    "collection": "City",
+    "topic": "Arctic",
+    "yearReleased": 2023,
+    "isRetired": false,
+    "minimunAge": 7,
+    "numberOfPieces": 815,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta59d31d9f2b22e06/60368_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt72a3efa073883cdc/60368.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt63d4fac1e39b94a4/60368_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt97510ce5a267d1b1/60368_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt76b9bdb5ce358909/60368_alt7.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc59a19ad8a00232d/60368_alt8.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join a skilled team of explorers for daring voyages of discovery aboard the mighty Artic Explorer Ship! Launch the helicopter to guide you through ice-covered seas in search of a treasure-laden Viking shipwreck. Crane the inspection sub into the freezing water where a curious orca keeps watch. Then don a diving suit, board the dinghy and prepare to unveil the mysteries of the Arctic Ocean!",
+    "minifigures": [
+      "an orca whale",
+      "a crub",
+      "an explorer",
+      "an explorer",
+      "an explorer",
+      "an explorer",
+      "an explorer",
+      "an explorer",
+      "an explorer"
+    ]
+  },
+  {
+    "legoSetId": 60366,
+    "legoSetName": "Ski and Climbing Center",
+    "collection": "City",
+    "topic": "Skiing",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 7,
+    "numberOfPieces": 1045,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blte196e27e454fed7b/60366_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte780055922ecc267/60366.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1b9255c2ea07bf5e/60366_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt9eef8ed77425bd90/60366_alt8.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Head to the ski slope for year-round winter adventures! Take the elevator to the top of the building where you can launch off for an awesome ski or snowboarding experience. Attach the safety harness and try your hand at wall climbing. Then call in at the ski store to upgrade your gear, enjoy a warm drink at the cozy café or stay outdoors where you can skate, play ice hockey or build a cute snowman!",
+    "minifigures": [
+      "a squirrel",
+      "an owl",
+      "a snowman",
+      "a skier",
+      "a skier",
+      "a skier",
+      "a skier",
+      "a skier",
+      "a skier",
+      "a skier",
+      "a skier"
+    ]
+  },
+  {
+    "legoSetId": 60365,
+    "legoSetName": "Apartment Building",
+    "collection": "City",
+    "topic": "City",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 688,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt395b055360727a19/60365_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt73164a3ef2f5503a/60365.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltd68c0d35c7e5e450/60365_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt54349d1b3888286b/60365_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt72d8525206a5a0f6/60365_alt7.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Enjoy the good life at the LEGO® City Apartment Building. This place is awesome! It has a convenience store where you can buy essential goods and tasty slushies, a modern living room with a sofa and TV, a well-equipped kitchen, a cozy bedroom and a bathroom with a toilet and bathtub. There's even an outdoor pool and a rooftop terrace with a barbecue and palm tree. Let's go!",
+    "minifigures": [
+      "a construction worker",
+      "a woman",
+      "an elderly woman",
+      "a man",
+      "a gym person",
+      "a woman"
+    ]
+  },
+  {
+    "legoSetId": 60364,
+    "legoSetName": "Street Skate Park",
+    "collection": "City",
+    "topic": "Skateboarding",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 454,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt5a4d250e166b6400/60364_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltdd02a77fc7599129/60364.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte25151d79f5d7ec3/60364_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt41a7cc5f11bb8ae9/60364_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt88bb7ff0506dbc7f/60364_alt8.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Grab your safety gear and head for the LEGO® City Street Skate Park. Choose from a BMX bike, skateboard, scooter or in-line skates. Switch and combine the ramps and equipment to perform all kinds of stunts and tricks. Grab the basketball and launch off at high speed for a flying dunk into the hoop! There's even a room where you can enjoy a soda with your fellow skaters. This park is just awesome!",
+    "minifigures": [
+      "a female skateboarder",
+      "a male skateboarder",
+      "a male skateboarder",
+      "a male skateboarder"
+    ]
+  },
+  {
+    "legoSetId": 60363,
+    "legoSetName": "Ice-Cream Shop",
+    "collection": "City",
+    "topic": "Ice Cream",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 296,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltfdb2a1978e5a4357/60363_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1s",
+      "https://www.lego.com/cdn/cs/set/assets/blt71f8dabc0a3e31c0/60363.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt596d3cf5833e2646/60363_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte64a1ca0a815dd4b/60363_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Jump aboard the cargo bike and head over to the LEGO® City Ice-Cream Shop. Help the attendant serve delicious ice creams and milkshakes to happy customers. This parlor really is cool! It's the perfect destination for a birthday party, with a neat ice-cream counter, blender, fridge and an outdoor seating area where friends and families can chill while they check out the menu.",
+    "minifigures": ["a customer", "a customer", "an ice cream vendor"]
+  },
+  {
+    "legoSetId": 60362,
+    "legoSetName": "Car Wash",
+    "collection": "City",
+    "topic": "Car Wash",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 243,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt93063ebfeb496fe5/60362_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltb8df5cf790769582/60362.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7a2f916c869c7dbb/60362_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte5670ae4ab0ae054/60362_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt6cd8ec90168d89ee/60362_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Head over the LEGO® City Car Wash. Drive through to activate the spinning washer brushes. Tip the dispenser to sprinkle the car with soapsuds. Then position the fans to dry your vehicle before driving round to top up your tire pressure at the pump. Washing your car has never been so much fun!",
+    "minifigures": ["a female driver", "a car wash worker"]
+  },
+  {
+    "legoSetId": 60361,
+    "legoSetName": "Ultimate Stunt Riders Challenge",
+    "collection": "City",
+    "topic": "Stuntz",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 7,
+    "numberOfPieces": 385,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltcc62933c892adf43/60361_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltfdb9dbd1d7009e77/60361.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blta3d462adf79cf609/60361_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt73b8e39aa50fab72/60361_alt8.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Prepare for the Ultimate Stunt Riders Challenge! Put your skills to the test, stage epic shows and compete to take the winner's trophy. Power up your flywheel stunt bike, defy gravity on the 360° loop, launch from the ramp to clear the ring of fire and hit the alien tower's vertical climb at full speed to reach the spaceship. Then combine the challenges to scale up the difficulty. Hold tight!",
+    "minifigures": [
+      "a camera man",
+      "a journalist",
+      "a stunt rider",
+      "a stunt rider"
+    ]
+  },
+  {
+    "legoSetId": 60360,
+    "legoSetName": "Spinning Stunt Challenge",
+    "collection": "City",
+    "topic": "Stuntz",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 117,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt8dd26e63165608fc/60360_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt680c04a2cb6c4440/60360.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt11ca4dc4b525d298/60360_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt866dc26639c70d2c/60360_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Get ready for the LEGO® City Spinning Stunt Challenge! Put your skills to the test, stage epic displays or compete with friends or family. Lock the rings into place, power up your flywheel stunt bike and hit the ramp at high speed to perform the perfect jump. Then unlock and spin the rings to scale up the challenge. Who'll take the winner's trophy? You get to find out.",
+    "minifigures": ["a stunt rider", "a stunt rider"]
+  },
+  {
+    "legoSetId": 60359,
+    "legoSetName": "Dunk Stunt Ramp Challenge",
+    "collection": "City",
+    "topic": "Stuntz",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 144,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt515c88bc3a49185c/60359_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltfdae353e0c9a3d9d/60359.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt25be2aac7b0786a1/60359_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt71b63b45fcbdd8a3/60359_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Cruise over to the Dunk Stunt Ramp Challenge for spectacular stunt-show action! Set the jump ring to the horizontal position, power up your flywheel bike and hit the launch ramp at speed for a perfect 'dunk'. Knock out the LEGO® flames as you score a basket to up your skill rating. Then change the ring to the vertical position and prepare for some star-studded stunt action!",
+    "minifigures": ["a stunt rider"]
+  },
+  {
+    "legoSetId": 60357,
+    "legoSetName": "Stunt Truck & Ring of Fire Challenge",
+    "collection": "City",
+    "topic": "Stuntz",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 479,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blte8fd5bcb9b83a1b3/60357_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt41dde790f0d4f7f5/60357.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt176960681f40edc4/60357_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltae12845c2e565afa/60357_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Get ready for the LEGO® City Ring of Fire Challenge! Help drive the huge truck into position and set up the fiery rings for the first run. Put on the crash helmet and power up the flywheel stunt bike. Hit the launch ramp at high speed to clear 1... 2... 3 rings of fire! Increase the distance between the rings to scale up the challenge. How far can this stunt bike fly? You get to find out!",
+    "minifigures": ["a race worker", "a stunt rider", "a race worker"]
+  },
+  {
+    "legoSetId": 40582,
+    "legoSetName": "4x4 Off-Road Ambulance Rescue",
+    "collection": "City",
+    "topic": "Off-Road",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 162,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3c190f502fd67aed/40582_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt39ccbbf54f939543/40582.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "",
+    "minifigures": ["a rescue medic", "a rescue medic", "an injured biker"]
+  },
+  {
+    "legoSetId": 60394,
+    "legoSetName": "ATV and Otter Habitat",
+    "collection": "City",
+    "topic": "Off-Road",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 90,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt9159c45a61f9debd/60394_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1546faa57d952420/60394.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1ad5385aab3e5a6b/60394_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt862f23f1bec73c72/60394_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Grab your walkie-talkie and camera, jump aboard the awesome ATV and head off-road with the LEGO® City park ranger. Drive to the water's edge where you can observe the otters as they swim, feed and play in their natural habitat. Take a few photos and check out the cute frog on its lily pad before you head back to base. What a wonderful day!",
+    "minifigures": ["a park ranger", "a fish", "a frog", "an otter", "an otter"]
+  },
+  {
+    "legoSetId": 60393,
+    "legoSetName": "4x4 Fire Truck Rescue",
+    "collection": "City",
+    "topic": "Firefighting",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 97,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltd9bc4045cc4f8bf9/60393_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltcffa6c56b472f37a/60393.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte05295c10b823d7d/60393_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Oh no... an unattended campfire is out of control! Board the supercool 4x4 Fire Truck and race to the scene. Yikes! A kitten is stranded in the tree. Grab your hand-held extinguisher and knock out the flames. Use the ladder to rescue the kitten. And when you're done, treat kitty to a bite of tasty, barbecued fish. Get ready for action-packed LEGO® City firefighting adventures!",
+    "minifigures": ["a firefighter", "a fish", "a kitten"]
+  },
+  {
+    "legoSetId": 60390,
+    "legoSetName": "Park Tractor",
+    "collection": "City",
+    "topic": "Gardening",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 86,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt8324906e6290bcd6/60390_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt35401ae33ca6f7eb/60390.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1a2d5d7118e8e509/60390_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Grab your shovel and broom, load up the trailer and head out on a tree-planting expedition aboard the cool green tractor. This machine is perfect for driving off road! Find a nice spot to plant the big tree and saplings. Remember to water them well! The new trees have attracted a colorful ladybug and a curious squirrel. Feed the squirrel an acorn before you sweep up and head for home. What a day!",
+    "minifigures": ["a gardener", "a ladybug", "a squirrel"]
+  },
+  {
+    "legoSetId": 60392,
+    "legoSetName": "Police Bike Car Chase",
+    "collection": "City",
+    "topic": "Police",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 59,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt34c932764536fd41/60392_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt8fef1a0ac3774f36/60392.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltf56ee44ab1693dad/60392_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "SCREECH! Hey! A crook is speeding away with stolen money! Mobilize the superfast police pursuit motorbike. Help the LEGO® City police officer catch the crook, then slap on the handcuffs and transport him to the nearest jail. Awesome crook-catching action awaits in LEGO City!",
+    "minifigures": ["a police officer", "a crook"]
+  },
+  {
+    "legoSetId": 60389,
+    "legoSetName": "Custom Car Garage",
+    "collection": "City",
+    "topic": "Garage",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 507,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta98eb5830c591eec/60389_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt018136f51affe606/60389.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt4b08865d4ce08c4b/60389_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt01b95baef6b1d402/60389_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltfa90df00224dc425/60389_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Welcome to the LEGO® City Custom Car Garage. Use the smart configuration wall to create awesome designs. Help the mechanics fit cool headlights, rear spoilers and bumpers for rallying and drift racing. Drive vehicles onto the ramps for modification, painting and welding. Use the hoist to install different engines and visit the tuning station before you hit the road. This workshop is awesome!",
+    "minifigures": [
+      "a handycap mechanic",
+      "a race driver",
+      "a race driver",
+      "a mechanic"
+    ]
+  },
+  {
+    "legoSetId": 60388,
+    "legoSetName": "Gaming Tournament Truck",
+    "collection": "City",
+    "topic": "Gaming",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 7,
+    "numberOfPieces": 344,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt5b50b8f2596d4b8a/60388_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt56f67c0264e33a6e/60388.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltfe60a70da41bd156/60388_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc15cefe4dfdfa910/60388_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt266ea218c2f943d2/60388_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "The Gaming Tournament Truck has arrived in LEGO® City for the big match between the eSports champions. This truck is loaded with cool equipment and merchandise for enthusiastic fans. Help the presenter prepare for the show. Fold up the side of the huge trailer to reveal the stage with 2 gaming stations and a giant stadium screen. Who'll win the trophy? Who knows! Let the tournament begin...",
+    "minifigures": ["a truck driver", "a gamer", "a gamer", "a presenter"]
+  },
+  {
+    "legoSetId": 60387,
+    "legoSetName": "4x4 Off-Roader Adventures",
+    "collection": "City",
+    "topic": "Off-Road",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 252,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltd78d826c2b335a0a/60387_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltfc05e0b23ab48939/60387.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltbf18c13944692186/60387_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt39ed58a0a42c72c3/60387_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt551845a4853a281f/60387_alt7.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Cruise across open country for exciting camping adventures aboard the 4x4 Off-Roader! This tough vehicle has huge tires and super-high suspension for rough terrain. When you arrive, unload the mountain bikes, grab your helmet and go explore! Use the camera to check out the wildlife. Then pitch the tent, light a campfire and cook up some supper before diving into your cozy sleeping bag. What a day!",
+    "minifigures": ["a biker", "a biker", "a rabbit", "a scorpion"]
+  },
+  {
+    "legoSetId": 60386,
+    "legoSetName": "Recycling Truck",
+    "collection": "City",
+    "topic": "Recycling",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 261,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt723cb320808188fb/60386_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt411eb263b30d2a10/60386.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc030385461da31cd/60386_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc97e5faa90ef406f/60386_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt4ac85071aecb17b8/60386_alt7.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blta0151acd6985e142/60386_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Веер... Bеер... Beep! The LEGO® City Recycling Truck has arrived at the recycling station. Help the workers load the containers onto the tipping platform and turn the wheel to empty the contents into the back of the truck. Hey! Look out for that curious cat! When you're done, drive back to base and raise the truck's flatbed to tip the contents. Who knew recycling waste could be so much fun!",
+    "minifigures": [
+      "a recycling worker",
+      "a recycling worker",
+      "a cat",
+      "a kid"
+    ]
+  },
+  {
+    "legoSetId": 60385,
+    "legoSetName": "Construction Digger",
+    "collection": "City",
+    "topic": "Construction",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 148,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt1f6652517213bac9/60385_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltfc1e9b0285bb1918/60385.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltce6aed0dd3521019/60385_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt5b47772532396e51/60385_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltec97beaf4817507d/60385_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltd7df4192beea669b/60385_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Jump aboard the customizable Construction Digger! Help the LEGO® City workers replace an old park bench with a futuristic, phone-charging smart bench. Use the digger's jackhammer and bucket attachments to clear the area. Then attach the pallet scoop to lift the new bench into position. When you're done, load up your broom and equipment and head to the next job!",
+    "minifigures": ["a construction worker", "a construction worker"]
+  },
+  {
+    "legoSetId": 60384,
+    "legoSetName": "Penguin Slushy Van",
+    "collection": "City",
+    "topic": "Food truck",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 194,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blte840fb67809da48b/60384_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltce2e490162f962ba/60384.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt84d0fd2037a54702/60384_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Hurray! The Penguin Slushy Van has arrived in LEGO® City. This cold drinks van really is cool! Check out its eye-catching penguin design! Join the fun penguin-suited vendor in the prep area. Slide open the window to serve the thirsty customers with cold drinks in 4 fruity flavors. Then jump behind the wheel and head to the next destination!",
+    "minifigures": ["a customer", "an ice cream vendor"]
+  },
+  {
+    "legoSetId": 60383,
+    "legoSetName": "Electric Sports Car",
+    "collection": "City",
+    "topic": "Sports car",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 95,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3d54a551c5134123/60383_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt47043e3b9b21875b/60383.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt5fe7438ec4dd277e/60383_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Get behind the wheel of the lightning-fast Electric Sports Car. Check out its futuristic design with eye-catching neon-yellow detailing, cool wheels and huge rear spoiler. Then jump aboard and visit the solar-powered charge point before you head for the nearest racetrack!",
+    "minifigures": ["a driver"]
+  },
+  {
+    "legoSetId": 60382,
+    "legoSetName": "Vet Van Rescue",
+    "collection": "City",
+    "topic": "Vet",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 4,
+    "numberOfPieces": 58,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt4d64ebcfc14fb072/60382_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt40418e2d86c91182/60382.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join the vets for animal-rescue missions. Load up your equipment and head out aboard the cool rescue vehicle. Help nurture the hungry cat with the feeding bottle. Treat the dog to a juicy bone. Use the stretcher to pick up poorly animals and use the syringe to give medicine. Enjoy pet-care adventures with LEGO® City sets!",
+    "minifigures": ["a female vet", "a male vet", "a cat", "a bulldog"]
+  },
+  {
+    "legoSetId": 60375,
+    "legoSetName": "Fire Station and Fire Truck",
+    "collection": "City",
+    "topic": "Fire truck",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 4,
+    "numberOfPieces": 153,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltdedaad363c11beb6/60375_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt6c5b65659d92fc19/60375.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc5f7d6888a7145ed/60375_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc37dca469d6bbb39/60375_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "The LEGO® City firefighters are taking a well-earned nap at the fire station, when suddenly the alarm sounds. Yikes - a popcorn vendor's cart is in flames! Check the overview monitor to find the location. Grab your fire helmet and take the slide down to the fire truck... WHEE! Then jump aboard and race to the scene to save the day... and the popcorn!",
+    "minifigures": [
+      "a male firefighter",
+      "a female firefighter",
+      "a popcorn vendor"
+    ]
+  },
+  {
+    "legoSetId": 60374,
+    "legoSetName": "Fire Command Truck",
+    "collection": "City",
+    "topic": "Fire truck",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 7,
+    "numberOfPieces": 502,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt7d902b3091170ca4/60374_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltb24e963aed6f6a78/60374.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt3503260eaa427789/60374_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt07b188ea3c794fee/60374_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt6d5b51d5cfdefda8/60374_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt5a89c132a70e42ad/60374_alt9.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join the LEGO® City firefighters aboard the ultramodern Fire Command Truck. This vehicle has everything you need to save the day! Use the truck's extinguisher and the fire drone to launch special firefighting elements. Deploy the truck's winch to move heavy objects. And if it gets too hot, send in the land drone with its robotic arm. Prepare for action!",
+    "minifigures": [
+      "a rabbit",
+      "a firefighter",
+      "a construction worker",
+      "a fire technician"
+    ]
+  },
+  {
+    "legoSetId": 60373,
+    "legoSetName": "Fire Rescue Boat",
+    "collection": "City",
+    "topic": "Fire boat",
+    "yearReleased": 2023,
+    "isRetired": false,
+    "minimunAge": 5,
+    "numberOfPieces": 144,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt627cf8c475b7a627/60373_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt0e2d022ae559c801/60373.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt92a6e0037669abf0/60373_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt5704988c39e0f156/60373_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt80884dce1e46e6a6/60373_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Yikes! SPLOOSH! A speedboat dinghy has caught fire and the pilot has jumped overboard! Mobilize the powerful City Fire Rescue Boat. Power through the waves and help the pilot to safety. Then send up the cool jetpack firefighter and use the boat's extinguisher to blast those flames. When's the next emergency? In LEGO® City, you get to decide!",
+    "minifigures": [
+      "a firefighter ship crew",
+      "a firefighter ship crew",
+      "a firefighter jetski user"
+    ]
+  },
+  {
+    "legoSetId": 60372,
+    "legoSetName": "Police Training Academy",
+    "collection": "City",
+    "topic": "Police",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 823,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blta66827935440e0e0/60372_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltc6f7269555c9a803/60372.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt7f2dd2b28329c623/60372_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt3ac093641718afb0/60372_alt10.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Welcome to the LEGO® City Police Training Academy! This place is packed with awesome challenges for new recruits. Scale the climbing wall, swing along the monkey bars and fly down the zip line. Keep your balance to complete the awesome obstacle course. Zoom around the cones to pass the driving test. Then saddle up your horse and head for the high jump. Way to go, rookie!",
+    "minifigures": [
+      "a horse",
+      "a police officer",
+      "a police officer",
+      "a police trainee",
+      "a police trainee",
+      "a police trainee",
+      "a police trainee"
+    ]
+  },
+  {
+    "legoSetId": 60371,
+    "legoSetName": "Emergency Vehicles HQ",
+    "collection": "City",
+    "topic": "Emergency vehicles",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 706,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt6b89827d5000f1f4/60371_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt87763bb490e75b3a/60371.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/bltdff9604d3cfc0e84/60371_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt25e139191627c01c/60371_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt1eda8b68cf285979/60371_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt3b0be4e7deed2771/60371_alt8.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join the fire, police and ambulance teams at the LEGO® City Emergency Vehicles HQ. Launch the firefighter helicopter from the rooftop helipad. Race to the rescue in the emergency ambulance. Pursue the motorbike and jail the crook in the police SUV. And between emergencies you can enjoy a workout on the treadmill, catch some TV or plan your next mission in the control center. This HQ is awesome!",
+    "minifigures": [
+      "a police officer",
+      "a crook",
+      "an elderly woman",
+      "an injured biker",
+      "a female medic"
+    ]
+  },
+  {
+    "legoSetId": 60370,
+    "legoSetName": "Police Station Chase",
+    "collection": "City",
+    "topic": "Police",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 4,
+    "numberOfPieces": 172,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blte1128656077cc791/60370_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blta86f232d3f5f26fb/60370.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte0dadd8b5bc9a769/60370_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blte7b67726c50c7d50/60370_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "It's a quiet day at the LEGO® City police station, when suddenly 'Woof! Woof!' the police dog sounds the alarm. 'CLANG!' goes the jail door and out runs the captured crook. Yikes! He's jumped onto the back of a motorbike that just dragged the jail door off of its hinges. Mobilize the police interceptor and chase those crooks! Action-packed adventures await in LEGO City.",
+    "minifigures": [
+      "a female police officer",
+      "a male police officer",
+      "a crook",
+      "a crook",
+      "a dog"
+    ]
+  },
+  {
+    "legoSetId": 60369,
+    "legoSetName": "Mobile Police Dog Training",
+    "collection": "City",
+    "topic": "Police",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 197,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/bltdd94c01696f218a9/60369_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt78935c3f9677145f/60369.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt224ceda79620a596/60369_alt2.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt44ee0b47b2a32c7c/60369_alt4.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Woof! Woof! Join the LEGO® City Police K9 Unit for dog training and puppy development. Load the equipment into the trailer. Don't forget the feeding bowls! Help the excited police dog and puppy into the cool K9 SUV and head for the training ground. When you arrive, set up the seesaw, jump bar and stepping paws and get ready for a fun day.",
+    "minifigures": ["a dog", "a puppy", "a police officer", "a police officer"]
+  },
+  {
+    "legoSetId": 60358,
+    "legoSetName": "Cyber Stunt Bike",
+    "collection": "City",
+    "topic": "Stuntz",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 13,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3a613bc14b323088/60358_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt745f5bccdf45d7dc/60358.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Get ready for crowd-thrilling action with the Cyber Stunt Bike rider! Put on the helmet, lower the visor and power up the flywheel stunt bike. Launch from ramps for high-flying jumps, tricks and amazing 1-wheel landings. This neon-colored LEGO® City Stuntz bike really is outstanding!",
+    "minifigures": ["a biker"]
+  },
+  {
+    "legoSetId": 60356,
+    "legoSetName": "Bear Stunt Bike",
+    "collection": "City",
+    "topic": "Stuntz",
+    "yearReleased": 2023,
+    "isRetired": true,
+    "minimunAge": 5,
+    "numberOfPieces": 10,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt332b5f35c9dd683a/60356_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+      "https://www.lego.com/cdn/cs/set/assets/blt9bb6d191870bc8f6/60356.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1"
+    ],
+    "description": "Join the bear stunt rider for crowd-thrilling action on the awesome stunt bike. Put on the fun bear helmet, power up the bike's flywheel and launch off to perform cool tricks! Hit ramps at full speed for highflying jumps and amazing rear-wheel landings. Hold tight... this bear has no fear!",
+    "minifigures": ["a biker in a bear costume"]
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2022,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
+    "images": [""],
+    "description": "",
+    "minifigures": []
+  },
+  {
+    "legoSetId": 603,
+    "legoSetName": "",
+    "collection": "City",
+    "topic": "",
+    "yearReleased": 2021,
+    "isRetired": true,
+    "minimunAge": 6,
+    "numberOfPieces": 489,
     "images": [""],
     "description": "",
     "minifigures": []
